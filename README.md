@@ -18,3 +18,5 @@ Just copy the files to yout localhost and set variables in localhostBootstrap/co
 
 CAUTION: This will replace your index.php where you will install !
 If you don't want this, rename this index.php file.
+
+-![alt text](http://i.imgur.com/vD6oXas.png "My localhost =D")
