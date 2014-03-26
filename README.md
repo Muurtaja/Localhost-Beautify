@@ -15,3 +15,6 @@ Just copy the files to yout localhost and set variables in localhostBootstrap/co
 * Host local: `host`;
 * Physical Path like /var/www: `physicalPath`;
 * Online & Offline links: `array('value','link')`.
+
+CAUTION: This will replace your index.php where you will install !
+If you don't want this, rename this index.php file.
