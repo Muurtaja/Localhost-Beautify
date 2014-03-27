@@ -72,7 +72,7 @@ class Webservice{
 		$queryString = self::remove_querystring_var($_SERVER['QUERY_STRING'],'option');
 		if($type == 'file'){
 			$absolutePath = self::verifyFolder($option,$file);
-			$href = $absolutePath.'&'.$queryString;	
+			$href = $absolutePath;	
 		}else{
 			$absolutePath = self::verifyFolder($option,$file);
 			$href = "index.php?option=".$absolutePath.'&'.$queryString;	
