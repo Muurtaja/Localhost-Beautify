@@ -10,6 +10,8 @@ To beautify your localhost with this [Template bootstrap](http://getbootstrap.co
 No more "Index of". =D
 
 ## Install
+Runs in php 5.5.3, may not work on older versions.
+
 Just copy the files to yout localhost and set variables in localhostBootstrap/config.php:
 
 * Host local: `host`;
